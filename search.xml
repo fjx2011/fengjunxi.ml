@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的世界原版开服教程</title>
+    <url>/2023/02/13/%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="我的世界java版原版开服教程"><a href="#我的世界java版原版开服教程" class="headerlink" title="我的世界java版原版开服教程"></a>我的世界java版原版开服教程</h1><p>今天讲一下如何利用内网穿透进行原版我的世界联机<br>准备：<br>spigot内核<br>java<br>lanproxy<br>一个启动器</p>
+<p>链接在这里</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">spigot：https://getbukkit.org/download/spigot</span><br><span class="line">java8：https://www.java.com/zh-CN/download/manual.jsp</span><br><span class="line">java17：https://www.oracle.com/cn/java/technologies/downloads/#java17</span><br><span class="line">lanproxy：https://github.com/ffay/lanproxy</span><br><span class="line">lanproxy的运行文件：https://file.nioee.com/d/2e81550ebdbd416c933f/</span><br><span class="line">这里说明一下</span><br><span class="line">lanproxy的运行文件如果是windows用户下载lanproxy-client-windows-amd64-20190523.tar.gz即可</span><br><span class="line">启动器就不用我多说了吧</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>我的世界</tag>
+        <tag>教程</tag>
+        <tag>内网穿透</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/02/13/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
